@@ -4,7 +4,7 @@
         "minute_end": 1,
         "topic": "Introdução às ferramentas de reunião",
         "subtopics": [
-            "Demonstração das ferramentas de reunião utilizadas para transcrição e acompanhamento do envolvimento",
+            "Demonstração das ferramentas de reunião utilizadas para transcrição e acompanhamento do engagement",
             "Descrição geral da forma como os conhecimentos são recolhidos e partilhados com os participantes"
         ]
     },
@@ -13,7 +13,7 @@
         "minute_end": 3,
         "topic": "Aspectos técnicos da ferramenta de reunião",
         "subtopics": [
-            "Limitações actuais no acompanhamento do envolvimento em tempo real",
+            "Limitações actuais no acompanhamento do engagement em tempo real",
             "Automatização da criação de relatórios",
             "Debate sobre a utilização de vídeos gravados e transcrições"
         ]
