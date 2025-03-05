@@ -1,0 +1,33 @@
+{
+    "evaluation": {
+        "overall_score": "85",
+        "criteria": [
+            {
+                "criterion": "Cumprimento dos objectivos",
+                "weight": "30%",
+                "score": "80",
+                "justification": "A maioria dos objectivos foi discutida, mas alguns pontos não foram totalmente abordados."
+            },
+            {
+                "criterion": "Engagement e participação",
+                "weight": "30%",
+                "score": "90",
+                "justification": "Elevado nível de engagement e participação ativa dos participantes."
+            },
+            {
+                "criterion": "Clareza da comunicação",
+                "weight": "40%",
+                "score": "85",
+                "justification": "Comunicação clara em geral, embora alguns pormenores técnicos pudessem ter sido melhor explicados."
+            }
+        ],
+        "strengths": [
+            "Demonstração clara e prática do sistema.",
+            "Elevado nível de empenhamento dos participantes."
+        ],
+        "areas_for_improvement": [
+            "Alguns debates poderiam ter sido mais objectivos.",
+            "As explicações técnicas poderiam ser simplificadas para uma melhor compreensão."
+        ]
+    }
+ }

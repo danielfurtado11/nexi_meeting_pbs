@@ -1,0 +1,51 @@
+{
+    "feedback": [
+        {
+            "name": "André Neiva",
+            "positive_aspects": [
+                "Explicou claramente a estrutura e os objetivos do projeto.",
+                "Manteve uma interação ativa com os outros participantes.",
+                "Forneceu informações detalhadas sobre a funcionalidade do sistema e futuros desenvolvimentos."
+            ],
+            "improvement_aspects": [
+                "Poderia comunicar de forma mais concisa, evitando explicações longas.",
+                "Assegurar que os outros têm espaço para falar, evitando monopolizar a discussão."
+            ]
+        },
+        {
+            "name": "Cátia Santana",
+            "positive_aspects": [
+                "Mostrou um interesse genuíno e forneceu informações valiosas sobre a aplicação do sistema.",
+                "Levantou preocupações importantes sobre a privacidade e o conforto dos alunos.",
+                "Articulou claramente as ideias relativamente às necessidades dos alunos e dos professores."
+            ],
+            "improvement_aspects": [
+                "Poderia ser mais concisa para evitar a repetição de ideias.",
+                "Estruturar melhor as intervenções para manter o foco da discussão."
+            ]
+        },
+        {
+            "name": "Daniel Furtado",
+            "positive_aspects": [
+                "Forneceu informações técnicas sobre a forma como as métricas de participação podem ser analisadas.",
+                "Contribuiu para a discussão oferecendo exemplos práticos das capacidades do sistema."
+            ],
+            "improvement_aspects": [
+                "Poderia desenvolver mais os pormenores técnicos para melhorar a compreensão.",
+                "Garantir a clareza da comunicação para evitar ambiguidades nas explicações."
+            ]
+        },
+        {
+            "name": "Diogo Feio",
+            "positive_aspects": [
+                "Facilitou a discussão, resumindo os pontos-chave.",
+                "Fez comentários de apoio que incentivaram a participação."
+            ],
+            "improvement_aspects": [
+                "Poderia participar mais ativamente na discussão para fornecer perspectivas adicionais.",
+                "Procurar fazer mais perguntas para estimular o diálogo entre os participantes."
+            ]
+        }
+    ]
+ }
+ 

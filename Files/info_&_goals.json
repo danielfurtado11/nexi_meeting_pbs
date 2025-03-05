@@ -1,0 +1,26 @@
+{
+    "participants": ["André Neiva", "Cátia Santana", "Daniel Furtado", "Diogo Feio"],
+    "duration": 28,
+    "goals": [
+        {
+            "goal": "Presentation of the automatic transcription system and its applicability in training sessions and meetings.",
+            "result": "Objective Achieved: Yes, it was demonstrated how the tool works in real time and how reports can be generated automatically."
+        },
+        {
+            "goal": "Discuss the integration of the platform with academic institutions.",
+            "result": "Objective Achieved: No, the conversation was preliminary, and further discussions are planned."
+        },
+        {
+            "goal": "Address privacy concerns related to the capture of participants' images and engagement metrics.",
+            "result": "Objective Achieved: Yes, concerns were acknowledged, and a plan to ensure individual privacy was discussed."
+        },
+        {
+            "goal": "Evaluate engagement and participation metrics in educational settings.",
+            "result": "Objective Achieved: Yes, methods for assessing participation were discussed, including tracking contributions during sessions."
+        },
+        {
+            "goal": "Explore feedback mechanisms for improving teaching methodologies based on student engagement.",
+            "result": "Objective Achieved: Yes, the potential for feedback based on engagement data was discussed and recognized as valuable."
+        }
+    ]
+}

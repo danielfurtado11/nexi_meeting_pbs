@@ -1,0 +1,25 @@
+{
+    "tasks": [
+        {
+            "name": "André Neiva",
+            "assigned_tasks": [
+                "Enviar uma ligação com o relatório desta reunião, garantindo a confidencialidade através do anonimato dos rostos.",
+                "Desenvolver funcionalidades para melhorar as ferramentas de aprendizagem pós-aula para os alunos."
+            ]
+        },
+        {
+            "name": "Daniel Furtado",
+            "assigned_tasks": [
+                "Fornecer informações sobre as estatísticas de participação e os níveis de envolvimento das reuniões.",
+                "Testar e demonstrar a funcionalidade de controlo da participação."
+            ]
+        },
+        {
+            "name": "Cátia Santana",
+            "assigned_tasks": [
+                "Discutir a funcionalidade da plataforma e as questões de privacidade com a direção da instituição."
+            ]
+        }
+    ]
+ }
+ 

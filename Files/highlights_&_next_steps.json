@@ -1,0 +1,17 @@
+{
+    "highlights": [
+        "André Neiva apresentou as capacidades de transcrição e de elaboração de relatórios utilizadas nas reuniões, salientando a capacidade de avaliar a participação e a eficácia.",
+        "Discutiram-se os aspectos técnicos da geração automática de relatórios, sendo necessário um desenvolvimento contínuo para o acompanhamento do engagement em tempo real.",
+        "Daniel Furtado demonstrou a interface do utilizador para aceder aos relatórios, incluindo informações sobre os níveis de engagement, stress e métricas de participação.",
+        "Cátia Santana levantou questões relacionadas com a privacidade e as implicações da gravação de sessões, sugerindo a necessidade de um equilíbrio entre a recolha de dados e o conforto dos participantes.",
+        "Foi salientado o potencial de utilização dos dados de participação para adaptar as experiências de aprendizagem, sublinhando a importância de compreender as preferências individuais de aprendizagem.",
+        "Cátia solicitou uma comparação com outra ferramenta (tlv) que fornece destaques e marcas de tempo para sessões gravadas, levantando preocupações sobre a privacidade e o consentimento para imagens gravadas.",
+        "Foi sublinhada a necessidade de uma comunicação clara sobre as políticas de utilização de dados e de privacidade, tendo o André confirmado o objetivo de garantir que os dados individuais só são acessíveis aos respectivos utilizadores."
+    ],
+    "next_steps": [
+        "Preparar um relatório modificado que anonimize as imagens dos participantes para a Cátia apresentar à direção da instituição.",
+        "Desenvolver uma funcionalidade integrada para registar a participação durante as sessões de forma a distinguir os diferentes tipos de contributos.",
+        "Explorar a possibilidade de fornecer aos alunos informações sobre o seu engagement e preferências de aprendizagem após cada sessão.",
+        "Agendar uma reunião de acompanhamento para discutir a integração das novas funcionalidades e qualquer feedback da apresentação da Cátia à direção."
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "questions": [
+        {
+            "name": "Cátia Santana",
+            "questions_and_answers": [
+                {
+                    "question": "Como podemos garantir a privacidade de alunos e professores quando captamos expressões faciais durante as aulas?",
+                    "answer": "A plataforma permitirá o acesso individual aos dados pessoais, garantindo que ninguém pode ver as informações dos outros, salvaguardando assim a privacidade."
+                },
+                {
+                    "question": "A plataforma pode fornecer um resumo dos níveis de participação e envolvimento de cada aluno?",
+                    "answer": "Sim, o sistema pode registar as taxas de participação e os níveis de envolvimento, ajudando os professores a avaliar o envolvimento dos alunos."
+                },
+                {
+                    "question": "É possível captar momentos importantes durante as aulas e fornecer atalhos para esses momentos nas gravações?",
+                    "answer": "Tecnicamente, é possível marcar momentos significativos nas gravações, mas é necessário ter em conta as preocupações com a privacidade."
+                },
+                {
+                    "question": "Os alunos terão acesso aos seus dados de desempenho individual?",
+                    "answer": "Sim, cada aluno só terá acesso às suas próprias informações e conhecimentos sobre o seu desempenho."
+                }
+            ]
+        },
+        {
+            "name": "André Neiva",
+            "questions_and_answers": [
+                {
+                    "question": "Podemos medir a eficácia de diferentes métodos de ensino no envolvimento dos alunos?",
+                    "answer": "Sim, a plataforma foi concebida para analisar o envolvimento em vários métodos de ensino para compreender quais são os mais eficazes."
+                },
+                {
+                    "question": "Conseguimos distinguir entre diferentes tipos de participação (por exemplo, perguntas, comentários)?",
+                    "answer": "Sim, o sistema pode categorizar os tipos de participação, permitindo uma melhor avaliação do envolvimento dos alunos."
+                }
+            ]
+        }
+    ]
+}

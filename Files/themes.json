@@ -1,0 +1,81 @@
+[
+    {
+        "minute_start": 0,
+        "minute_end": 1,
+        "topic": "Introdução às ferramentas de reunião",
+        "subtopics": [
+            "Demonstração das ferramentas de reunião utilizadas para transcrição e acompanhamento do envolvimento",
+            "Descrição geral da forma como os conhecimentos são recolhidos e partilhados com os participantes"
+        ]
+    },
+    {
+        "minute_start": 1,
+        "minute_end": 3,
+        "topic": "Aspectos técnicos da ferramenta de reunião",
+        "subtopics": [
+            "Limitações actuais no acompanhamento do envolvimento em tempo real",
+            "Automatização da criação de relatórios",
+            "Debate sobre a utilização de vídeos gravados e transcrições"
+        ]
+    },
+    {
+        "minute_start": 3,
+        "minute_end": 6,
+        "topic": "Geração de relatórios e insights",
+        "subtopics": [
+            "Apresentação de um exemplo de relatório de reunião",
+            "Avaliação da eficácia e dos objectivos da reunião",
+            "Critérios de avaliação do desempenho da reunião"
+        ]
+    },
+    {
+        "minute_start": 6,
+        "minute_end": 10,
+        "topic": "Feedback dos participantes e preocupações com a privacidade",
+        "subtopics": [
+            "Discussão sobre a utilização de TLV para registo de aulas",
+            "Preocupações com a privacidade e o conforto dos participantes",
+            "Possibilidade de destacar momentos específicos nas gravações das aulas"
+        ]
+    },
+    {
+        "minute_start": 10,
+        "minute_end": 14,
+        "topic": "Acesso a dados individuais e feedback",
+        "subtopics": [
+            "Garantir que os participantes só acedem aos seus próprios dados",
+            "Discussão sobre a forma como o feedback será fornecido",
+            "Importância de manter a privacidade tanto dos alunos como dos instrutores"
+        ]
+    },
+    {
+        "minute_start": 14,
+        "minute_end": 19,
+        "topic": "Acompanhamento do engagement e insights de aprendizagem",
+        "subtopics": [
+            "Acompanhamento dos níveis de empenhamento e métricas de participação",
+            "Debate sobre a forma como os diferentes estilos de aprendizagem afectam o engagement",
+            "Desenvolvimento futuro de ferramentas para melhorar a aprendizagem com base em conhecimentos recolhidos"
+        ]
+    },
+    {
+        "minute_start": 19,
+        "minute_end": 24,
+        "topic": "Desafios da medição da participação",
+        "subtopics": [
+            "Dificuldades no registo da participação em turmas numerosas",
+            "Debate sobre potenciais soluções para uma avaliação justa da participação",
+            "Possibilidade de captar os aspectos qualitativos da participação"
+        ]
+    },
+    {
+        "minute_start": 24,
+        "minute_end": 28,
+        "topic": "Conclusão e próximos passos",
+        "subtopics": [
+            "Resumo dos pontos-chave discutidos durante a reunião",
+            "Planos para o desenvolvimento e aperfeiçoamento das ferramentas",
+            "Acordo sobre o envio de um relatório resumido aos participantes"
+        ]
+    }
+]
