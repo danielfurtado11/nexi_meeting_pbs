@@ -24,7 +24,7 @@ st.set_page_config(page_title="Meeting Analysis", layout="wide")
 
 row = st.columns(2)
 row[0].image("logo.png", width=150)
-row[0].markdown("## 👋 Welcome, Cátia!")
+row[0].markdown("## 👋 Bem-vinda, Cátia!")
 
 st.write("")
 st.write("")
