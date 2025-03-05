@@ -3,24 +3,24 @@
     "duration": 28,
     "goals": [
         {
-            "goal": "Presentation of the automatic transcription system and its applicability in training sessions and meetings.",
-            "result": "Objective Achieved: Yes, it was demonstrated how the tool works in real time and how reports can be generated automatically."
+            "goal": "Apresentação do sistema de transcrição automática e sua aplicabilidade em acções de formação e reuniões",
+            "result": "Sim, foi demonstrado o funcionamento da ferramenta em tempo real e como podem ser gerados relatórios de forma automática."
         },
         {
-            "goal": "Discuss the integration of the platform with academic institutions.",
-            "result": "Objective Achieved: No, the conversation was preliminary, and further discussions are planned."
+            "goal": "Discutir a integração da plataforma com instituições académicas.",
+            "result": "Não, a conversa foi preliminar e estão previstas mais discussões."
         },
         {
-            "goal": "Address privacy concerns related to the capture of participants' images and engagement metrics.",
-            "result": "Objective Achieved: Yes, concerns were acknowledged, and a plan to ensure individual privacy was discussed."
+            "goal": "Abordar as preocupações de privacidade relacionadas com a captura de imagens dos participantes e as métricas de engagement.",
+            "result": "Sim, as preocupações foram reconhecidas e foi discutido um plano para garantir a privacidade individual."
         },
         {
-            "goal": "Evaluate engagement and participation metrics in educational settings.",
-            "result": "Objective Achieved: Yes, methods for assessing participation were discussed, including tracking contributions during sessions."
+            "goal": "Avaliar as métricas de engagement e participação em contextos educativos.",
+            "result": "Sim, foram discutidos métodos de avaliação da participação, incluindo o controlo das contribuições durante as sessões."
         },
         {
-            "goal": "Explore feedback mechanisms for improving teaching methodologies based on student engagement.",
-            "result": "Objective Achieved: Yes, the potential for feedback based on engagement data was discussed and recognized as valuable."
+            "goal": "Explorar mecanismos de feedback para melhorar as metodologias de ensino com base no engagement dos alunos.",
+            "result": "Sim, o potencial de feedback baseado em dados de engagement foi discutido e reconhecido como valioso."
         }
     ]
 }
