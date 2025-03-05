@@ -314,7 +314,7 @@ st.write("###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 
 df_resampled = pd.read_csv("Files/interventions.csv", index_col=0, parse_dates=True)
-df_resampled["Global Mean"] = df_resampled[["André Neiva", "Daniel Furtado", "Cátia Santana", "Diogo Feio"]].mean(axis=1)
+df_resampled["Média Global"] = df_resampled[["André Neiva", "Daniel Furtado", "Cátia Santana", "Diogo Feio"]].mean(axis=1)
 
 
 
@@ -352,7 +352,7 @@ for tema, intervalo in topics.items():
 fig = px.line(data_filtered, x="time", y="Interventions", color="Participant",
             labels={"time": "Tempo", "Interventions": "Número de Intervenções"},
             line_dash="Participant",
-            line_dash_map={"Global Mean": "dash", "André Neiva": "solid", "Daniel Furtado": "solid", "Diogo Feio": "solid", "Cátia Santana": "solid"},
+            line_dash_map={"Média Global": "dash", "André Neiva": "solid", "Daniel Furtado": "solid", "Diogo Feio": "solid", "Cátia Santana": "solid"},
             title="Participação ao Longo do Tempo",
             hover_data=["Theme"]
             )
