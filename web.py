@@ -42,10 +42,10 @@ participants = ", ".join(info_data["participants"])
 end_time = format_time(start_hour, start_minute + info_data['duration'])
 duration = f"{start_hour}:0{start_minute} - {end_time} ({info_data['duration']} minutes)"
 
-st.title("📊 Meeting Analysis (27-02-2025)")
+st.title("📊 Análise da Reunião (05-03-2025)")
 st.write("")
-st.write(f"##### Participants: <span style='font-weight:normal;'>{participants}.</span>", unsafe_allow_html=True)
-st.write(f"##### Duration: <span style='font-weight:normal;'>{duration}</span>", unsafe_allow_html=True)
+st.write(f"##### Participantes: <span style='font-weight:normal;'>{participants}.</span>", unsafe_allow_html=True)
+st.write(f"##### Duração: <span style='font-weight:normal;'>{duration}</span>", unsafe_allow_html=True)
 st.write("")
 
 
@@ -53,7 +53,7 @@ st.header("🎯 Goals", divider="gray")
 
 for goal in info_data["goals"]:
     st.write(f"###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ {goal['goal']}", unsafe_allow_html=True)
-    st.write(f"###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Objective Achieved: <span style='font-weight:normal;'>{goal['result']}</span>", unsafe_allow_html=True)
+    st.write(f"###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Objetivo Atingido: <span style='font-weight:normal;'>{goal['result']}</span>", unsafe_allow_html=True)
     st.write("")
 
 
@@ -350,7 +350,7 @@ for tema, intervalo in topics.items():
 
 
 fig = px.line(data_filtered, x="time", y="Interventions", color="Participant",
-            labels={"time": "Tempo", "Interventions": "Número de Intervenções", "Participants": "Participantes"},
+            labels={"time": "Tempo", "Interventions": "Número de Intervenções"},
             line_dash="Participant",
             line_dash_map={"Global Mean": "dash", "André Neiva": "solid", "Daniel Furtado": "solid", "Diogo Feio": "solid", "Cátia Santana": "solid"},
             title="Participação ao Longo do Tempo",
@@ -359,9 +359,9 @@ fig = px.line(data_filtered, x="time", y="Interventions", color="Participant",
 
 
 
-fig.update_xaxes(title="Time")
-fig.update_yaxes(title="Number of Interventions")
-fig.update_layout(legend_title="Participants")
+fig.update_xaxes(title="Tempo")
+fig.update_yaxes(title="Número de Intervenções")
+fig.update_layout(legend_title="Participantes")
 
 st.plotly_chart(fig, use_container_width=True)
 
